@@ -2,7 +2,7 @@
 
 by Charlie Ellis
 
-This is a repository for my final project of UC Berkeley course Digital Humanities 100: Theory and Methods in the Digital Humanities.
+This is a repository for the final project of UC Berkeley course Digital Humanities 100: Theory and Methods in the Digital Humanities.
 
 Project Description:
 
