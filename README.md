@@ -1,5 +1,6 @@
-# dylan
-Repository for Digital Humanities 100: Theory and Methods in the Digital Humanities final project.
+# A Voice of a Generation: Analyzing the Evolution of Bob Dylan's Lyrics
+
+This is a repository for my final project of UC Berkeley course Digital Humanities 100: Theory and Methods in the Digital Humanities.
 
 Project Description:
 
