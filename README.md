@@ -7,3 +7,5 @@ This is a repository for the final project of UC Berkeley course Digital Humanit
 Project Description:
 
 Bob Dylan is widely regarded as one of the most influential artists of our generation, and much of his influence comes from his lyrics. This project aims to examine the evolution of Bob Dylan’s lyrics over the course of his 60 year career as a musician. I will use Natural Language Processing techniques to see how the sentiment of his lyrics have progressed throughout his career (ex. positivity, negativity, joyfulness, sadness, etc). There were many ups and downs throughout his career, and there were times where people expected so much out of him being the so-called voice of a generation, and this project will also explore how these events changed his lyrical style. 
+
+![A Voice of a Generation: Analyzing the Evolution of Bob Dylan's Lyrics](https://github.com/charlesellis1/dylan/blob/main/BD%20Sentiment%20Storyboard%20CE%205.0.pdf)
